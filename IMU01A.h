@@ -1,0 +1,6 @@
+#define IMU01A_ACC 0x1C
+#define IMU01A_ACC_AXIS 0x01 
+
+#define IMU01A_GYRO 0x68
+#define IMU01A_GYRO_AXIS 0x28
+#define IMU01A_GYRO_TEMP 0x26
