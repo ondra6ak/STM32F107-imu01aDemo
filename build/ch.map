@@ -1581,7 +1581,7 @@ destructors     0x08000150        0x0
                 0x20010000                __heap_end__ = __ram_end__
 OUTPUT(build/ch.elf elf32-littlearm)
 
-.debug_info     0x00000000    0x116f8
+.debug_info     0x00000000    0x116e4
  .debug_info    0x00000000      0x2a8 build/obj/crt0.o
  .debug_info    0x000002a8      0x1f0 build/obj/vectors.o
  .debug_info    0x00000498       0x9a build/obj/chcore.o
@@ -1611,7 +1611,7 @@ OUTPUT(build/ch.elf elf32-littlearm)
  .debug_info    0x0000e170      0x558 build/obj/chprintf.o
  .debug_info    0x0000e6c8      0xf20 build/obj/i2cGetErr.o
  .debug_info    0x0000f5e8      0xdd7 build/obj/IMU01A.o
- .debug_info    0x000103bf     0x1339 build/obj/main.o
+ .debug_info    0x000103bf     0x1325 build/obj/main.o
 
 .debug_abbrev   0x00000000     0x3d7b
  .debug_abbrev  0x00000000       0xdc build/obj/crt0.o
@@ -1739,7 +1739,7 @@ OUTPUT(build/ch.elf elf32-littlearm)
  .debug_ranges  0x00000f50       0x30 build/obj/IMU01A.o
  .debug_ranges  0x00000f80       0x20 build/obj/main.o
 
-.debug_line     0x00000000     0x49de
+.debug_line     0x00000000     0x49d9
  .debug_line    0x00000000      0x13c build/obj/crt0.o
  .debug_line    0x0000013c       0xb4 build/obj/vectors.o
  .debug_line    0x000001f0       0x53 build/obj/chcore.o
@@ -1769,7 +1769,7 @@ OUTPUT(build/ch.elf elf32-littlearm)
  .debug_line    0x00003e28      0x2c5 build/obj/chprintf.o
  .debug_line    0x000040ed      0x2bf build/obj/i2cGetErr.o
  .debug_line    0x000043ac      0x2bc build/obj/IMU01A.o
- .debug_line    0x00004668      0x376 build/obj/main.o
+ .debug_line    0x00004668      0x371 build/obj/main.o
 
 .debug_str      0x00000000     0x21d8
  .debug_str     0x00000000      0x219 build/obj/crt0.o

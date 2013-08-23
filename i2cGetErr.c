@@ -1,3 +1,8 @@
+/*
+i2c troubleshooting library
+
+Created by Ondra Sestak 2013
+*/
 #include <ch.h>
 #include <hal.h>
 #include <chprintf.h>
