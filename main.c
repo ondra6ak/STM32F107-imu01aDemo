@@ -63,7 +63,7 @@ static msg_t gyroDemo (void*arg)
         chprintf ((BaseChannel *)&SD2, "%d accX    ", X);
         chprintf ((BaseChannel *)&SD2, "%d accY    ", Y);
         chprintf ((BaseChannel *)&SD2, "%d accZ    ", Z);
-        chprintf ((BaseChannel *)&SD2, "%d °C    ", temp);
+        chprintf ((BaseChannel *)&SD2, "%d T    ", temp);
         chprintf ((BaseChannel *)&SD2, "\n\r");     	
     }
 }
