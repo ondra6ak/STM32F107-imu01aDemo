@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccutUotc.s 			page 1
+ARM GAS  /tmp/cczGoC7s.s 			page 1
 
 
    1              		.syntax unified
@@ -28,23 +28,23 @@ ARM GAS  /tmp/ccutUotc.s 			page 1
   25 0006 00000000 		.4byte	.Ldebug_abbrev0
   26 000a 04       		.byte	0x4
   27 000b 01       		.uleb128 0x1
-  28 000c 83000000 		.4byte	.LASF12
+  28 000c F7000000 		.4byte	.LASF12
   29 0010 01       		.byte	0x1
-  30 0011 17010000 		.4byte	.LASF13
-  31 0015 D8000000 		.4byte	.LASF14
+  30 0011 DC000000 		.4byte	.LASF13
+  31 0015 2E000000 		.4byte	.LASF14
   32 0019 00000000 		.4byte	.Ldebug_line0
   33 001d 02       		.uleb128 0x2
   34 001e 01       		.byte	0x1
   35 001f 06       		.byte	0x6
-  36 0020 CC000000 		.4byte	.LASF0
+  36 0020 D0000000 		.4byte	.LASF0
   37 0024 02       		.uleb128 0x2
   38 0025 01       		.byte	0x1
   39 0026 08       		.byte	0x8
-  40 0027 57000000 		.4byte	.LASF1
+  40 0027 97000000 		.4byte	.LASF1
   41 002b 02       		.uleb128 0x2
   42 002c 02       		.byte	0x2
   43 002d 05       		.byte	0x5
-  44 002e 73000000 		.4byte	.LASF2
+  44 002e B3000000 		.4byte	.LASF2
   45 0032 02       		.uleb128 0x2
   46 0033 02       		.byte	0x2
   47 0034 07       		.byte	0x7
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccutUotc.s 			page 1
   55 0042 07       		.byte	0x7
   56 0043 21000000 		.4byte	.LASF4
   57 0047 02       		.uleb128 0x2
-ARM GAS  /tmp/ccutUotc.s 			page 2
+ARM GAS  /tmp/cczGoC7s.s 			page 2
 
 
   58 0048 08       		.byte	0x8
@@ -67,36 +67,36 @@ ARM GAS  /tmp/ccutUotc.s 			page 1
   61 004e 02       		.uleb128 0x2
   62 004f 08       		.byte	0x8
   63 0050 07       		.byte	0x7
-  64 0051 40000000 		.4byte	.LASF6
+  64 0051 80000000 		.4byte	.LASF6
   65 0055 02       		.uleb128 0x2
   66 0056 04       		.byte	0x4
   67 0057 05       		.byte	0x5
-  68 0058 6A000000 		.4byte	.LASF7
+  68 0058 AA000000 		.4byte	.LASF7
   69 005c 02       		.uleb128 0x2
   70 005d 04       		.byte	0x4
   71 005e 07       		.byte	0x7
-  72 005f 47010000 		.4byte	.LASF8
+  72 005f 48010000 		.4byte	.LASF8
   73 0063 02       		.uleb128 0x2
   74 0064 04       		.byte	0x4
   75 0065 07       		.byte	0x7
-  76 0066 2E000000 		.4byte	.LASF9
+  76 0066 6E000000 		.4byte	.LASF9
   77 006a 02       		.uleb128 0x2
   78 006b 01       		.byte	0x1
   79 006c 08       		.byte	0x8
-  80 006d 65000000 		.4byte	.LASF10
+  80 006d A5000000 		.4byte	.LASF10
   81 0071 04       		.uleb128 0x4
-  82 0072 3F010000 		.4byte	.LASF15
+  82 0072 40010000 		.4byte	.LASF15
   83 0076 01       		.byte	0x1
   84 0077 4F       		.byte	0x4f
   85 0078 55000000 		.4byte	0x55
   86 007c 02       		.uleb128 0x2
   87 007d 01       		.byte	0x1
   88 007e 02       		.byte	0x2
-  89 007f 7D000000 		.4byte	.LASF11
+  89 007f BD000000 		.4byte	.LASF11
   90 0083 05       		.uleb128 0x5
   91 0084 71000000 		.4byte	0x71
   92 0088 06       		.uleb128 0x6
-  93 0089 32010000 		.4byte	.LASF16
+  93 0089 C3000000 		.4byte	.LASF16
   94 008d 02       		.byte	0x2
   95 008e 0706     		.2byte	0x607
   96 0090 83000000 		.4byte	0x83
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccutUotc.s 			page 1
  112 000a 0E       		.uleb128 0xe
  113 000b 10       		.uleb128 0x10
  114 000c 06       		.uleb128 0x6
-ARM GAS  /tmp/ccutUotc.s 			page 3
+ARM GAS  /tmp/cczGoC7s.s 			page 3
 
 
  115 000d 00       		.byte	0
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccutUotc.s 			page 1
  169 0043 13       		.uleb128 0x13
  170 0044 3F       		.uleb128 0x3f
  171 0045 0C       		.uleb128 0xc
-ARM GAS  /tmp/ccutUotc.s 			page 4
+ARM GAS  /tmp/cczGoC7s.s 			page 4
 
 
  172 0046 3C       		.uleb128 0x3c
@@ -219,84 +219,85 @@ ARM GAS  /tmp/ccutUotc.s 			page 1
  195      676E6564 
  195      20696E74 
  195      00
- 196              	.LASF9:
- 197 002e 6C6F6E67 		.ascii	"long unsigned int\000"
- 197      20756E73 
- 197      69676E65 
- 197      6420696E 
- 197      7400
- 198              	.LASF6:
- 199 0040 6C6F6E67 		.ascii	"long long unsigned int\000"
- 199      206C6F6E 
- 199      6720756E 
- 199      7369676E 
- 199      65642069 
- 200              	.LASF1:
- 201 0057 756E7369 		.ascii	"unsigned char\000"
- 201      676E6564 
- 201      20636861 
- 201      7200
- 202              	.LASF10:
- 203 0065 63686172 		.ascii	"char\000"
-ARM GAS  /tmp/ccutUotc.s 			page 5
+ 196              	.LASF14:
+ 197 002e 2F686F6D 		.ascii	"/home/ondra6ak/Documents/ARM/ChibiOS/demos/STM32F10"
+ 197      652F6F6E 
+ 197      64726136 
+ 197      616B2F44 
+ 197      6F63756D 
+ 198 0061 372D696D 		.ascii	"7-imu01aDemo\000"
+ 198      75303161 
+ 198      44656D6F 
+ 198      00
+ 199              	.LASF9:
+ 200 006e 6C6F6E67 		.ascii	"long unsigned int\000"
+ 200      20756E73 
+ 200      69676E65 
+ 200      6420696E 
+ 200      7400
+ 201              	.LASF6:
+ 202 0080 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 202      206C6F6E 
+ARM GAS  /tmp/cczGoC7s.s 			page 5
 
 
- 203      00
- 204              	.LASF7:
- 205 006a 6C6F6E67 		.ascii	"long int\000"
- 205      20696E74 
- 205      00
- 206              	.LASF2:
- 207 0073 73686F72 		.ascii	"short int\000"
- 207      7420696E 
- 207      7400
- 208              	.LASF11:
- 209 007d 5F426F6F 		.ascii	"_Bool\000"
- 209      6C00
- 210              	.LASF12:
- 211 0083 474E5520 		.ascii	"GNU C 4.7.4 20130613 (release) [ARM/embedded-4_7-br"
- 211      4320342E 
- 211      372E3420 
- 211      32303133 
- 211      30363133 
- 212 00b6 616E6368 		.ascii	"anch revision 200083]\000"
- 212      20726576 
- 212      6973696F 
- 212      6E203230 
- 212      30303833 
- 213              	.LASF0:
- 214 00cc 7369676E 		.ascii	"signed char\000"
- 214      65642063 
- 214      68617200 
- 215              	.LASF14:
- 216 00d8 2F686F6D 		.ascii	"/home/ondra6ak/Documents/ARM/ChibiOS-RT/trunk/demos"
- 216      652F6F6E 
- 216      64726136 
- 216      616B2F44 
- 216      6F63756D 
- 217 010b 2F696D75 		.ascii	"/imu01aDemo\000"
- 217      30316144 
- 217      656D6F00 
- 218              	.LASF13:
- 219 0117 2E2E2F2E 		.ascii	"../../os/hal/src/mmc_spi.c\000"
- 219      2E2F6F73 
- 219      2F68616C 
- 219      2F737263 
- 219      2F6D6D63 
- 220              	.LASF16:
- 221 0132 49544D5F 		.ascii	"ITM_RxBuffer\000"
- 221      52784275 
- 221      66666572 
- 221      00
+ 202      6720756E 
+ 202      7369676E 
+ 202      65642069 
+ 203              	.LASF1:
+ 204 0097 756E7369 		.ascii	"unsigned char\000"
+ 204      676E6564 
+ 204      20636861 
+ 204      7200
+ 205              	.LASF10:
+ 206 00a5 63686172 		.ascii	"char\000"
+ 206      00
+ 207              	.LASF7:
+ 208 00aa 6C6F6E67 		.ascii	"long int\000"
+ 208      20696E74 
+ 208      00
+ 209              	.LASF2:
+ 210 00b3 73686F72 		.ascii	"short int\000"
+ 210      7420696E 
+ 210      7400
+ 211              	.LASF11:
+ 212 00bd 5F426F6F 		.ascii	"_Bool\000"
+ 212      6C00
+ 213              	.LASF16:
+ 214 00c3 49544D5F 		.ascii	"ITM_RxBuffer\000"
+ 214      52784275 
+ 214      66666572 
+ 214      00
+ 215              	.LASF0:
+ 216 00d0 7369676E 		.ascii	"signed char\000"
+ 216      65642063 
+ 216      68617200 
+ 217              	.LASF13:
+ 218 00dc 2E2E2F2E 		.ascii	"../../os/hal/src/mmc_spi.c\000"
+ 218      2E2F6F73 
+ 218      2F68616C 
+ 218      2F737263 
+ 218      2F6D6D63 
+ 219              	.LASF12:
+ 220 00f7 474E5520 		.ascii	"GNU C 4.7.4 20130913 (release) [ARM/embedded-4_7-br"
+ 220      4320342E 
+ 220      372E3420 
+ 220      32303133 
+ 220      30393133 
+ 221 012a 616E6368 		.ascii	"anch revision 202601]\000"
+ 221      20726576 
+ 221      6973696F 
+ 221      6E203230 
+ 221      32363031 
  222              	.LASF15:
- 223 013f 696E7433 		.ascii	"int32_t\000"
+ 223 0140 696E7433 		.ascii	"int32_t\000"
  223      325F7400 
  224              	.LASF8:
- 225 0147 73697A65 		.ascii	"sizetype\000"
+ 225 0148 73697A65 		.ascii	"sizetype\000"
  225      74797065 
  225      00
- 226              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.4 20130613 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccutUotc.s 			page 6
+ 226              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.4 20130913 (release) [ARM/embedded-4_7-br
+ARM GAS  /tmp/cczGoC7s.s 			page 6
 
 
 DEFINED SYMBOLS

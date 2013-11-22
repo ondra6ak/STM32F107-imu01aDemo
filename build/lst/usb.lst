@@ -1,4 +1,4 @@
-ARM GAS  /tmp/ccKSrfkb.s 			page 1
+ARM GAS  /tmp/ccwuCvHO.s 			page 1
 
 
    1              		.syntax unified
@@ -28,23 +28,23 @@ ARM GAS  /tmp/ccKSrfkb.s 			page 1
   25 0006 00000000 		.4byte	.Ldebug_abbrev0
   26 000a 04       		.byte	0x4
   27 000b 01       		.uleb128 0x1
-  28 000c 9A000000 		.4byte	.LASF12
+  28 000c F3000000 		.4byte	.LASF12
   29 0010 01       		.byte	0x1
-  30 0011 57000000 		.4byte	.LASF13
-  31 0015 EF000000 		.4byte	.LASF14
+  30 0011 97000000 		.4byte	.LASF13
+  31 0015 2E000000 		.4byte	.LASF14
   32 0019 00000000 		.4byte	.Ldebug_line0
   33 001d 02       		.uleb128 0x2
   34 001e 01       		.byte	0x1
   35 001f 06       		.byte	0x6
-  36 0020 E3000000 		.4byte	.LASF0
+  36 0020 E7000000 		.4byte	.LASF0
   37 0024 02       		.uleb128 0x2
   38 0025 01       		.byte	0x1
   39 0026 08       		.byte	0x8
-  40 0027 6E000000 		.4byte	.LASF1
+  40 0027 AE000000 		.4byte	.LASF1
   41 002b 02       		.uleb128 0x2
   42 002c 02       		.byte	0x2
   43 002d 05       		.byte	0x5
-  44 002e 8A000000 		.4byte	.LASF2
+  44 002e CA000000 		.4byte	.LASF2
   45 0032 02       		.uleb128 0x2
   46 0033 02       		.byte	0x2
   47 0034 07       		.byte	0x7
@@ -58,7 +58,7 @@ ARM GAS  /tmp/ccKSrfkb.s 			page 1
   55 0042 07       		.byte	0x7
   56 0043 21000000 		.4byte	.LASF4
   57 0047 02       		.uleb128 0x2
-ARM GAS  /tmp/ccKSrfkb.s 			page 2
+ARM GAS  /tmp/ccwuCvHO.s 			page 2
 
 
   58 0048 08       		.byte	0x8
@@ -67,36 +67,36 @@ ARM GAS  /tmp/ccKSrfkb.s 			page 1
   61 004e 02       		.uleb128 0x2
   62 004f 08       		.byte	0x8
   63 0050 07       		.byte	0x7
-  64 0051 40000000 		.4byte	.LASF6
+  64 0051 80000000 		.4byte	.LASF6
   65 0055 02       		.uleb128 0x2
   66 0056 04       		.byte	0x4
   67 0057 05       		.byte	0x5
-  68 0058 81000000 		.4byte	.LASF7
+  68 0058 C1000000 		.4byte	.LASF7
   69 005c 02       		.uleb128 0x2
   70 005d 04       		.byte	0x4
   71 005e 07       		.byte	0x7
-  72 005f 43010000 		.4byte	.LASF8
+  72 005f 44010000 		.4byte	.LASF8
   73 0063 02       		.uleb128 0x2
   74 0064 04       		.byte	0x4
   75 0065 07       		.byte	0x7
-  76 0066 2E000000 		.4byte	.LASF9
+  76 0066 6E000000 		.4byte	.LASF9
   77 006a 02       		.uleb128 0x2
   78 006b 01       		.byte	0x1
   79 006c 08       		.byte	0x8
-  80 006d 7C000000 		.4byte	.LASF10
+  80 006d BC000000 		.4byte	.LASF10
   81 0071 04       		.uleb128 0x4
-  82 0072 3B010000 		.4byte	.LASF15
+  82 0072 3C010000 		.4byte	.LASF15
   83 0076 01       		.byte	0x1
   84 0077 4F       		.byte	0x4f
   85 0078 55000000 		.4byte	0x55
   86 007c 02       		.uleb128 0x2
   87 007d 01       		.byte	0x1
   88 007e 02       		.byte	0x2
-  89 007f 94000000 		.4byte	.LASF11
+  89 007f D4000000 		.4byte	.LASF11
   90 0083 05       		.uleb128 0x5
   91 0084 71000000 		.4byte	0x71
   92 0088 06       		.uleb128 0x6
-  93 0089 2E010000 		.4byte	.LASF16
+  93 0089 DA000000 		.4byte	.LASF16
   94 008d 02       		.byte	0x2
   95 008e 0706     		.2byte	0x607
   96 0090 83000000 		.4byte	0x83
@@ -118,7 +118,7 @@ ARM GAS  /tmp/ccKSrfkb.s 			page 1
  112 000a 0E       		.uleb128 0xe
  113 000b 10       		.uleb128 0x10
  114 000c 06       		.uleb128 0x6
-ARM GAS  /tmp/ccKSrfkb.s 			page 3
+ARM GAS  /tmp/ccwuCvHO.s 			page 3
 
 
  115 000d 00       		.byte	0
@@ -178,7 +178,7 @@ ARM GAS  /tmp/ccKSrfkb.s 			page 1
  169 0043 13       		.uleb128 0x13
  170 0044 3F       		.uleb128 0x3f
  171 0045 0C       		.uleb128 0xc
-ARM GAS  /tmp/ccKSrfkb.s 			page 4
+ARM GAS  /tmp/ccwuCvHO.s 			page 4
 
 
  172 0046 3C       		.uleb128 0x3c
@@ -219,84 +219,85 @@ ARM GAS  /tmp/ccKSrfkb.s 			page 1
  195      676E6564 
  195      20696E74 
  195      00
- 196              	.LASF9:
- 197 002e 6C6F6E67 		.ascii	"long unsigned int\000"
- 197      20756E73 
- 197      69676E65 
- 197      6420696E 
- 197      7400
- 198              	.LASF6:
- 199 0040 6C6F6E67 		.ascii	"long long unsigned int\000"
- 199      206C6F6E 
- 199      6720756E 
- 199      7369676E 
- 199      65642069 
- 200              	.LASF13:
- 201 0057 2E2E2F2E 		.ascii	"../../os/hal/src/usb.c\000"
- 201      2E2F6F73 
- 201      2F68616C 
- 201      2F737263 
- 201      2F757362 
- 202              	.LASF1:
-ARM GAS  /tmp/ccKSrfkb.s 			page 5
+ 196              	.LASF14:
+ 197 002e 2F686F6D 		.ascii	"/home/ondra6ak/Documents/ARM/ChibiOS/demos/STM32F10"
+ 197      652F6F6E 
+ 197      64726136 
+ 197      616B2F44 
+ 197      6F63756D 
+ 198 0061 372D696D 		.ascii	"7-imu01aDemo\000"
+ 198      75303161 
+ 198      44656D6F 
+ 198      00
+ 199              	.LASF9:
+ 200 006e 6C6F6E67 		.ascii	"long unsigned int\000"
+ 200      20756E73 
+ 200      69676E65 
+ 200      6420696E 
+ 200      7400
+ 201              	.LASF6:
+ 202 0080 6C6F6E67 		.ascii	"long long unsigned int\000"
+ 202      206C6F6E 
+ARM GAS  /tmp/ccwuCvHO.s 			page 5
 
 
- 203 006e 756E7369 		.ascii	"unsigned char\000"
- 203      676E6564 
- 203      20636861 
- 203      7200
- 204              	.LASF10:
- 205 007c 63686172 		.ascii	"char\000"
- 205      00
- 206              	.LASF7:
- 207 0081 6C6F6E67 		.ascii	"long int\000"
- 207      20696E74 
- 207      00
- 208              	.LASF2:
- 209 008a 73686F72 		.ascii	"short int\000"
- 209      7420696E 
- 209      7400
- 210              	.LASF11:
- 211 0094 5F426F6F 		.ascii	"_Bool\000"
- 211      6C00
- 212              	.LASF12:
- 213 009a 474E5520 		.ascii	"GNU C 4.7.4 20130613 (release) [ARM/embedded-4_7-br"
- 213      4320342E 
- 213      372E3420 
- 213      32303133 
- 213      30363133 
- 214 00cd 616E6368 		.ascii	"anch revision 200083]\000"
- 214      20726576 
- 214      6973696F 
- 214      6E203230 
- 214      30303833 
- 215              	.LASF0:
- 216 00e3 7369676E 		.ascii	"signed char\000"
- 216      65642063 
- 216      68617200 
- 217              	.LASF14:
- 218 00ef 2F686F6D 		.ascii	"/home/ondra6ak/Documents/ARM/ChibiOS-RT/trunk/demos"
- 218      652F6F6E 
- 218      64726136 
- 218      616B2F44 
- 218      6F63756D 
- 219 0122 2F696D75 		.ascii	"/imu01aDemo\000"
- 219      30316144 
- 219      656D6F00 
- 220              	.LASF16:
- 221 012e 49544D5F 		.ascii	"ITM_RxBuffer\000"
- 221      52784275 
- 221      66666572 
- 221      00
+ 202      6720756E 
+ 202      7369676E 
+ 202      65642069 
+ 203              	.LASF13:
+ 204 0097 2E2E2F2E 		.ascii	"../../os/hal/src/usb.c\000"
+ 204      2E2F6F73 
+ 204      2F68616C 
+ 204      2F737263 
+ 204      2F757362 
+ 205              	.LASF1:
+ 206 00ae 756E7369 		.ascii	"unsigned char\000"
+ 206      676E6564 
+ 206      20636861 
+ 206      7200
+ 207              	.LASF10:
+ 208 00bc 63686172 		.ascii	"char\000"
+ 208      00
+ 209              	.LASF7:
+ 210 00c1 6C6F6E67 		.ascii	"long int\000"
+ 210      20696E74 
+ 210      00
+ 211              	.LASF2:
+ 212 00ca 73686F72 		.ascii	"short int\000"
+ 212      7420696E 
+ 212      7400
+ 213              	.LASF11:
+ 214 00d4 5F426F6F 		.ascii	"_Bool\000"
+ 214      6C00
+ 215              	.LASF16:
+ 216 00da 49544D5F 		.ascii	"ITM_RxBuffer\000"
+ 216      52784275 
+ 216      66666572 
+ 216      00
+ 217              	.LASF0:
+ 218 00e7 7369676E 		.ascii	"signed char\000"
+ 218      65642063 
+ 218      68617200 
+ 219              	.LASF12:
+ 220 00f3 474E5520 		.ascii	"GNU C 4.7.4 20130913 (release) [ARM/embedded-4_7-br"
+ 220      4320342E 
+ 220      372E3420 
+ 220      32303133 
+ 220      30393133 
+ 221 0126 616E6368 		.ascii	"anch revision 202601]\000"
+ 221      20726576 
+ 221      6973696F 
+ 221      6E203230 
+ 221      32363031 
  222              	.LASF15:
- 223 013b 696E7433 		.ascii	"int32_t\000"
+ 223 013c 696E7433 		.ascii	"int32_t\000"
  223      325F7400 
  224              	.LASF8:
- 225 0143 73697A65 		.ascii	"sizetype\000"
+ 225 0144 73697A65 		.ascii	"sizetype\000"
  225      74797065 
  225      00
- 226              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.4 20130613 (release) [ARM/embedded-4_7-br
-ARM GAS  /tmp/ccKSrfkb.s 			page 6
+ 226              		.ident	"GCC: (GNU Tools for ARM Embedded Processors) 4.7.4 20130913 (release) [ARM/embedded-4_7-br
+ARM GAS  /tmp/ccwuCvHO.s 			page 6
 
 
 DEFINED SYMBOLS
